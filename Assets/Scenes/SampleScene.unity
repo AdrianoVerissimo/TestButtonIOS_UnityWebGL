@@ -296,7 +296,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "BOT\xC3O 1"
+  m_Text: BUTTON 1
 --- !u!222 &283979313
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -605,7 +605,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "BOT\xC3O 3"
+  m_Text: BUTTON 3
 --- !u!222 &1183219784
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1125,7 +1125,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "BOT\xC3O 2"
+  m_Text: BUTTON 2
 --- !u!222 &1935239317
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1204,7 +1204,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "BOT\xC3O 4"
+  m_Text: BUTTON 4
 --- !u!222 &2049002396
 CanvasRenderer:
   m_ObjectHideFlags: 0
