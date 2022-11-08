@@ -23,4 +23,9 @@ public class ButtonController : MonoBehaviour
     {
         OpenURL_WindowOpen(url);
     }
+
+    public void ApplicationOpenURL()
+    {
+        Application.OpenURL(url);
+    }
 }
